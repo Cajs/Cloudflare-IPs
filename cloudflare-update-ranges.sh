@@ -6,8 +6,8 @@ CF_NGINX_CONFIG_FILE="/etc/nginx/cloudflare"
 LOG_FILE="/var/log/cloudflare-nginx"
 
 # The URLs with the actual IP addresses used by CloudFlare.
-CF_URL_IP4="https://www.cloudflare.com/ips-v4"
-CF_URL_IP6="https://www.cloudflare.com/ips-v6"
+CF_URL_IP4="https://www.cloudflare.com/ips-v4/"
+CF_URL_IP6="https://www.cloudflare.com/ips-v6/"
 
 # Temporary files.
 CF_TEMP_IP4="/tmp/cloudflare-ips-v4.txt"
